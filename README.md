@@ -1,14 +1,27 @@
-# Title: NYC High School Analysis
+# Title: Analyzing NYC High School Data
+---
+Summary: Relationship between education and socio-economic indicators.
+Category: Data Analysis
+Featured: true
+Difficulty: Intermediate
 
-- **Category:** Data Analysis
-- **Featured:** true
-- **Tags:**
+Technologies:
   - Python
   - Pandas
   - NumPy
   - Matplotlib
   - Seaborn
+
+Skills:
+  - Data Cleaning
+  - Exploratory Data Analysis
+  - Data Visualization
+
+Tags:
+  - Python
+  - Data Analysis
   - EDA
+---
 
 This project analyzes the relationship between **SAT scores** in New York City high schools and various **socio-economic** and **real estate factors** across different boroughs. The goal is to uncover insights that can help educators, policymakers, and homebuyers make informed decisions.
 
