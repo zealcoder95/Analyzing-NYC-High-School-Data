@@ -1,4 +1,14 @@
-# **Analyzing NYC High School Data and Property Prices**
+# Title: NYC High School Analysis
+
+- **Category:** Data Analysis
+- **Featured:** true
+- **Tags:**
+  - Python
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+  - EDA
 
 This project analyzes the relationship between **SAT scores** in New York City high schools and various **socio-economic** and **real estate factors** across different boroughs. The goal is to uncover insights that can help educators, policymakers, and homebuyers make informed decisions.
 
