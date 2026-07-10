@@ -1,5 +1,5 @@
-# Title: Analyzing NYC High School Data
 ---
+Title: Analyzing NYC High School Data
 Summary: Relationship between education and socio-economic indicators.
 Category: Data Analysis
 Featured: true
